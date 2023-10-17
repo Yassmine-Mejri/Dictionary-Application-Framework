@@ -1,0 +1,30 @@
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe.config
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.pdb
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.AssemblyReference.cache
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form1.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.exe
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.pdb
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe.config
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\bin\Debug\Projet Framework.pdb
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form1.resources
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.exe
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet Framework.pdb
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Administrator.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Administrator.resources
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.login.resources
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Register.resources
+C:\Users\Lenovo\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.import.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.import.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.login.resources
+C:\Users\yassm\Documents\MEGA\2LNIG\semestre2\PROJETS\FRAMEWORK\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Register.resources
